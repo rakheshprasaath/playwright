@@ -3,7 +3,7 @@ import com.microsoft.playwright.options.AriaRole;
 
 import java.nio.file.Paths;
 
-public class PlayWright {
+public class TracerView {
     public static void main(String[] Args) throws InterruptedException {
         Playwright playWright = Playwright.create();
 
